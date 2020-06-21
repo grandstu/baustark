@@ -1,0 +1,75 @@
+/*
+This CSS resource incorporates links to font software which is the valuable copyrighted
+property of Monotype Imaging and/or its suppliers. You may not attempt to copy, install,
+redistribute, convert, modify or reverse engineer this font software. Please contact Monotype
+Imaging with any questions regarding Web fonts:  http://webfonts.fonts.com
+*/
+
+/* Helvetica-W01-Roman */
+@font-face {
+    font-family: "Helvetica-W01-Roman";
+    src: url("../fonts/ea95b44a-eab7-4bd1-861c-e73535e7f652.eot?#iefix");
+    src:
+        url("../fonts/ea95b44a-eab7-4bd1-861c-e73535e7f652.eot?#iefix") format("eot"),
+        url("../fonts/4021a3b9-f782-438b-aeb4-c008109a8b64.woff") format("woff"),
+        url("../fonts/669f79ed-002c-4ff6-965c-9da453968504.ttf") format("truetype"),
+        url("../fonts/d17bc040-9e8b-4397-8356-8153f4a64edf.svg#d17bc040-9e8b-4397-8356-8153f4a64edf") format("svg");
+}
+
+/* Helvetica-W01-Light */
+@font-face {
+    font-family: "Helvetica-W01-Light";
+    src: url("../fonts/717f8140-20c9-4892-9815-38b48f14ce2b.eot?#iefix");
+    src:
+        url("../fonts/717f8140-20c9-4892-9815-38b48f14ce2b.eot?#iefix") format("eot"),
+        url("../fonts/03805817-4611-4dbc-8c65-0f73031c3973.woff") format("woff"),
+        url("../fonts/d5f9f72d-afb7-4c57-8348-b4bdac42edbb.ttf") format("truetype"),
+        url("../fonts/05ad458f-263b-413f-b054-6001a987ff3e.svg#05ad458f-263b-413f-b054-6001a987ff3e") format("svg");
+}
+
+/* Avenir-LT-W01_35-Light1475496 */
+@font-face{
+    font-family:"Avenir-LT-W01_35-Light1475496";
+    src: url("../fonts/edefe737-dc78-4aa3-ad03-3c6f908330ed.eot?#iefix");
+    src:
+        url("../fonts/edefe737-dc78-4aa3-ad03-3c6f908330ed.eot?#iefix") format("eot"),
+        url("../fonts/0078f486-8e52-42c0-ad81-3c8d3d43f48e.woff2") format("woff2"),
+        url("../fonts/908c4810-64db-4b46-bb8e-823eb41f68c0.woff") format("woff"),
+        url("../fonts/4577388c-510f-4366-addb-8b663bcc762a.ttf") format("truetype"),
+        url("../fonts/b0268c31-e450-4159-bfea-e0d20e2b5c0c.svg#b0268c31-e450-4159-bfea-e0d20e2b5c0c") format("svg");
+}
+
+/* Avenir-LT-W01_85-Heavy1475544 */
+@font-face{
+    font-family:"Avenir-LT-W01_85-Heavy1475544";
+    src: url("../fonts/6af9989e-235b-4c75-8c08-a83bdaef3f66.eot?#iefix");
+    src:
+        url("../fonts/6af9989e-235b-4c75-8c08-a83bdaef3f66.eot?#iefix") format("eot"),
+        url("../fonts/d513e15e-8f35-4129-ad05-481815e52625.woff2") format("woff2"),
+        url("../fonts/61bd362e-7162-46bd-b67e-28f366c4afbe.woff") format("woff"),
+        url("../fonts/ccd17c6b-e7ed-4b73-b0d2-76712a4ef46b.ttf") format("truetype"),
+        url("../fonts/20577853-40a7-4ada-a3fb-dd6e9392f401.svg#20577853-40a7-4ada-a3fb-dd6e9392f401") format("svg");
+}
+
+/* Lulo-Clean-W01-One-Bold */
+@font-face{
+    font-family:"Lulo-Clean-W01-One-Bold";
+    src: url("../fonts/0163ac22-50a7-406e-aa64-c62ee6fbf3d7.eot?#iefix");
+    src:
+        url("../fonts/0163ac22-50a7-406e-aa64-c62ee6fbf3d7.eot?#iefix") format("eot"),
+        url("../fonts/aee74cb3-c913-4b54-9722-6001c92325f2.woff2") format("woff2"),
+        url("../fonts/80de9d5d-ab5f-40ce-911b-104e51e93d7c.woff") format("woff"),
+        url("../fonts/1b46b05b-cfdd-4d82-8c2f-5c6cfba1fe60.ttf") format("truetype"),
+        url("../fonts/be340f0b-a2d4-41df-acb1-4dc124330a88.svg#be340f0b-a2d4-41df-acb1-4dc124330a88") format("svg");
+}
+
+/* Helvetica-LT-W10-Roman */
+@font-face {
+    font-family: "Helvetica-LT-W10-Roman";
+    src: url("../fonts/686a6a06-e711-4bd2-b393-8504a497bb3c.eot?#iefix");
+    src:
+        url("../fonts/686a6a06-e711-4bd2-b393-8504a497bb3c.eot?#iefix") format("eot"),
+        url("../fonts/6f8d1983-4d34-4fa4-9110-988f6c495757.woff") format("woff"),
+        url("../fonts/7903ee3f-e9ab-4bdc-b7d2-d232de2da580.ttf") format("truetype"),
+        url("../fonts/9c58e9ea-fdea-4b9c-b0f9-0a2157389ed0.svg#9c58e9ea-fdea-4b9c-b0f9-0a2157389ed0") format("svg");
+}
